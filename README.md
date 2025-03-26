@@ -1,4 +1,7 @@
 # Multiple LLM Agents Debate for Equitable Cultural Alignment
+
+Authors: Dayeon Ki, Rachel Rudinger, Tianyi Zhou, Marine Carpuat
+
 This repository contains the code and dataset for our paper **Multiple LLM Agents Debate for Equitable Cultural Alignment**.
 
 
