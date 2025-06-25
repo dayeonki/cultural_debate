@@ -2,7 +2,7 @@
 
 Authors: Dayeon Ki, Rachel Rudinger, Tianyi Zhou, Marine Carpuat
 
-This repository contains the code and dataset for our paper **Multiple LLM Agents Debate for Equitable Cultural Alignment**.
+This repository contains the code and dataset for our ACL 2025 Main paper **Multiple LLM Agents Debate for Equitable Cultural Alignment**.
 
 
 <div align="center">
