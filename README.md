@@ -120,5 +120,24 @@ For evaluating multi LLM baselines, use `evaluate/accuracy_multi.py`. Add the na
 
 ## Citation
 ```
-TBD
+@inproceedings{ki-etal-2025-multiple,
+    title = "Multiple {LLM} Agents Debate for Equitable Cultural Alignment",
+    author = "Ki, Dayeon  and
+      Rudinger, Rachel  and
+      Zhou, Tianyi  and
+      Carpuat, Marine",
+    editor = "Che, Wanxiang  and
+      Nabende, Joyce  and
+      Shutova, Ekaterina  and
+      Pilehvar, Mohammad Taher",
+    booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.acl-long.1210/",
+    doi = "10.18653/v1/2025.acl-long.1210",
+    pages = "24841--24877",
+    ISBN = "979-8-89176-251-0",
+}
 ```
