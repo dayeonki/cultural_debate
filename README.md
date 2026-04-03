@@ -13,8 +13,11 @@ University of Maryland
 
 This repository contains the code and dataset for our ACL 2025 Main paper <br> **Multiple LLM Agents Debate for Equitable Cultural Alignment**.
 
-<img src="https://github.com/user-attachments/assets/b3415a65-ccac-4468-a291-07602cb95509" style="width: 15px; vertical-align: middle;" alt="code"> <b><a href=https://github.com/dayeonki/cultural_debate>Code</a></b> | 
-<img src="https://github.com/user-attachments/assets/fc2ca3c2-3e78-4ca4-a208-448c0a6c7068" style="width: 15px; vertical-align: middle;" alt="paper"> <b><a href=https://aclanthology.org/2025.acl-long.1210/>Paper</a></b>
+<p>
+  <a href="https://aclanthology.org/2025.acl-long.1210/" target="_blank" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/arXiv-Paper-b31b1b?style=flat&logo=arxiv" alt="arXiv">
+  </a>
+</p>
 
 </div>
 
