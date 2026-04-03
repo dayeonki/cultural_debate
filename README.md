@@ -52,6 +52,13 @@ For more comprehensive comparison study, we investigate two additional strategie
 3. **Single Model:** a single LLM generates outputs
 4. **Self-Reflection:** an LLM generates verbal self-reflections on its own outputs and incorporate them in subsequent iterations
 
+### Results
+
+<div align="center">
+<img width="900" height="279" alt="Screenshot 2026-04-03 at 1 44 40 PM" src="https://github.com/user-attachments/assets/602d2b6b-59db-4715-aa8f-2895311f6f9c" />
+</div>
+
+
 <a id="quick_start"></a>
 ## 🚀 Quick Start
 
