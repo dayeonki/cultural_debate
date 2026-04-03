@@ -7,8 +7,8 @@
 </p>
 
 
-<a href=https://dayeonki.github.io/>Dayeon Ki</a>, <a href=https://rudinger.github.io/>Rachel Rudinger</a>, <a href=https://tianyizhou.github.io/>Tianyi Zhou</a>, <a href=https://www.cs.umd.edu/~marine/>Marine Carpuat<a><br>
-University of Maryland
+<a href=https://dayeonki.github.io/>Dayeon Ki</a><sup>1</sup>, <a href=https://rudinger.github.io/>Rachel Rudinger</a><sup>1</sup>, <a href=https://tianyizhou.github.io/>Tianyi Zhou</a><sup>2</sup>, <a href=https://www.cs.umd.edu/~marine/>Marine Carpuat<a><sup>1</sup> <br>
+<sup>1</sup>University of Maryland, <sup>2</sup>MBUZAI
 <br>
 
 This repository contains the code and dataset for our ACL 2025 Main paper <br> **Multiple LLM Agents Debate for Equitable Cultural Alignment**.
