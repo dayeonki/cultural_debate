@@ -1,6 +1,6 @@
 <div align="center">
 
- # Multiple LLM Agents Debate for Equitable Cultural Alignment
+ # Multiple LLM Agents Debate for Equitable <br> Cultural Alignment
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/74b6e33b-2eea-4aed-8db5-d6f89945c1b6" width="800">
